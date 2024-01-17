@@ -1,0 +1,20 @@
+Medipet Online - La salud que tu mascota necesita
+Public objetivo: centros medicos y veterinarias
+Problema: Información en linea sobre el estado de salud de la mascota
+Solución: Descongestionar llamados e idas al centro médico.
+Beneficio: Control y calidad
+
+
+
+sabias que cuando la veterinaria está fuera de horario de atención no puedes saber de tu mascota?
+Por eso, hemos creado Medipet Online, un servicio 
+
+
+COMO: Usuario
+QUIERO: Que mi mascota esté ingresada con todo su historial médico
+PARA: 
+
+Como: dueño de mi querido perro,
+Quiero: utilizar Medipet Online,
+Para: recibir notificaciones y actualizaciones regulares sobre su salud, 
+permitiéndome tomar decisiones informadas sin tener que desplazarme constantemente al veterinario.
